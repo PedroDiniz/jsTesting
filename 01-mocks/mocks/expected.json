@@ -1,0 +1,20 @@
+[
+  {
+      "name": "Peter",
+      "id": 123,
+      "profession": "Javascript Specialist",
+      "birthDay": 1995
+  },
+  {
+      "name": "Ric",
+      "id": 321,
+      "profession": "Javascript Specialist",
+      "birthDay": 1940
+  },
+  {
+      "name": "Jack",
+      "id": 231,
+      "profession": "Java Developer",
+      "birthDay": 1990
+  }
+]
