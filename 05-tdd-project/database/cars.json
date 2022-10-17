@@ -1,0 +1,23 @@
+[
+  {
+    "id": "10ab27e7-ef5a-45bd-add5-3d388e443562",
+    "name": "Spyder",
+    "releaseYear": true,
+    "available": true,
+    "gasAvailable": 2022
+  },
+  {
+    "id": "854c0e79-b3c7-4554-b029-4764295eb501",
+    "name": "911",
+    "releaseYear": true,
+    "available": true,
+    "gasAvailable": 2021
+  },
+  {
+    "id": "2dc756fb-c89a-4db8-add4-cc6233235da8",
+    "name": "XTS",
+    "releaseYear": true,
+    "available": true,
+    "gasAvailable": 2022
+  }
+]
